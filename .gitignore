@@ -6,5 +6,3 @@ __pycache__/
 assignment_solution.ipynb
 
 .DS_Store
-
-*.csv
